@@ -1,3 +1,4 @@
+/* All elements */
 * {
     margin:0;
     padding:0;
@@ -9,6 +10,7 @@ body {
     background-color: #222;
 }
 
+/* Header Elements */
 .card {
     width:90%;
     max-width: 470px;
@@ -54,6 +56,7 @@ body {
     width:16px;
 }
 
+/* After search elements */
 .weather-icon {
     width:170px;
     margin-top: 30px;
@@ -98,6 +101,7 @@ body {
     display:none;
 }
 
+/* After search failed */
 .error {
     text-align: left;
     margin-left: 10px;
